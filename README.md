@@ -1,4 +1,4 @@
-# Ansys-Mechanical---Rocket Enginne Bolted-Nozzle-Flange - Nonlinear FEA
+# Ansys-Mechanical---Rocket Enginne Bolted Nozzle Flange - Nonlinear FEA
 
 This project focuses on the **nonlinear finite element analysis of a bolted nozzle flange**.  
 It was carried out as part of the Cornell University edX course on **Finite Element Analysis**.  
